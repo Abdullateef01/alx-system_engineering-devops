@@ -12,4 +12,4 @@
 
 6-firstdirectory file is the shell script that create directory my_first_directory in /tmp/ directory.
 
-
+7-movethatfile file is the shell script that move betty file in /tmp/ to /tmp/my_first_directory/.7-movethatfile file is the shell script that move betty file in /tmp/ to /tmp/my_first_directory/.7-movethatfile file is the shell script that move betty file in /tmp/ to /tmp/my_first_directory/.7-movethatfile file is the shell script that move betty file in /tmp/ to /tmp/my_first_directory/.7-movethatfile file is the shell script that move betty file in /tmp/ to /tmp/my_first_directory/.7-movethatfile file is the shell script that move betty file in /tmp/ to /tmp/my_first_directory/.7-movethatfile file is the shell script that move betty file in /tmp/ to /tmp/my_first_directory/.
