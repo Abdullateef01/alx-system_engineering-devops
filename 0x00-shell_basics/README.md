@@ -7,3 +7,9 @@
 3-listfiles file is a shell script that list files and directories in long format.
 
 4-listmorefiles file is a shell script that list files and directories including hidden files.
+
+5-listfilesdigitonly file is a shell script that list userid and groupid in files and directories.
+
+6-firstdirectory file is the shell script that create directory my_first_directory in /tmp/ directory.
+
+
