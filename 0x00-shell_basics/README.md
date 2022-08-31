@@ -19,3 +19,5 @@
 9-firstdirdeletion file is tge shell script that remove directory.
 
 10-back file is the shell script that change working directory to previous directory.
+
+11-lists file is shell script that display visible and hidden files and directories in the current working directory,parent directory and /boot directory. 
