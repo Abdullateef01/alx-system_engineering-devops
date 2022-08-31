@@ -24,4 +24,6 @@
 
 12-file_type file is the shell script to know tge type of file /tmp/iamafile is.
 
+13-symbolic_link file is the shell script to create symbolic link.
+
  
