@@ -2,4 +2,6 @@
 
 1-listit file is a shell script that list both files and directories in the current working directory.
 
-2-bring_me_home file is a shell script that bring the user to home directory
+2-bring_me_home file is a shell script that bring the user to home directory.
+
+3-listfiles file is a shell script that list files and directories in long format.
