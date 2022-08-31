@@ -20,4 +20,8 @@
 
 10-back file is the shell script that change working directory to previous directory.
 
-11-lists file is shell script that display visible and hidden files and directories in the current working directory,parent directory and /boot directory. 
+11-lists file is shell script that display visible and hidden files and directories in the current working directory,parent directory and /boot directory.
+
+12-file_type file is the shell script to know tge type of file /tmp/iamafile is.
+
+ 
