@@ -5,3 +5,5 @@
 2-bring_me_home file is a shell script that bring the user to home directory.
 
 3-listfiles file is a shell script that list files and directories in long format.
+
+4-listmorefiles file is a shell script that list files and directories including hidden files.
